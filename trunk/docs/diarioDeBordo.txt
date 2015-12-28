@@ -1,0 +1,93 @@
+
+diarioDeBordo.txt
+
+----------------
+Aula 01
+----------------
+
+
+
+(EDP) 
+
+Atividade individual ou em dupla
+Entrega condicionada a apresentação rápida da execução e solução encontrada
+Duração: duas aulas completas
+Valor: 10 pontos
+
+1.	Construção do método buidCardGame(int size, int max): ArrayList da classe Simulador;
+2.	Este método deve criar e devolver uma cartela (ArrayList) de SIZE números naturais, aleatórios, não-repetidos e válidos no intervalo [1, MAX];
+3.	Construir uma classe de teste (por exemplo TestaSimulador.java), conforme exemplo exposto no quadro;
+
+Esta atividade compõe o desenvolvimento de um projeto que será construído ao longo do semestre durante atividades de EDP ou atividades extras comuns ao conteúdo da disciplina.
+
+Aos interessados, uma solução padronizada será disponibilizada no repositório de acompanhamento da disciplina.
+
+
+----------------
+Aula 02 (22/ago)
+----------------
+
+- get (complementando a manipulacao ArrayList;
+- Ordenação por Collections.sort;
+
+* metodos do tipo getMaior, getMenor (aulab)
+
+- metodos com List de entrada e retorno nativo;
+
+- Apresentação da TAD Stack
+- Use de stack no algoritmo de conversão decimal - binário
+
+
+(EDP) 
+
+Atividade individual ou em dupla
+Entrega condicionada a apresentação rápida da execução e solução encontrada
+Duração: duas aulas completas
+Valor: 10 pontos
+
+Melhorando o projeto (Bingador)
+
+1. No build devolver o List ordenado;
+2. checkCardIntegrity(size, max):boolean
+           verifica quantidade, 
+           verifica limites e 
+           verifica repeticoes (desafio)
+
+Aos interessados, uma solução padronizada será disponibilizada no repositório de acompanhamento da disciplina.
+
+
+
+----------------
+Aula 02 (22/ago)
+----------------
+
+- Exception, entendendo;
+             controlando;
+             disparando (lançar);
+             criando;
+             
+- catch (Exception e) 
+- IllegalArgumentException 
+- IndexOutOfBoundsException             
+- NullPointerException             
+             
+
+
+(EDP) 
+
+Atividade individual ou em dupla;
+Entrega condicionada a apresentação rápida da execução e solução encontrada;
+Duração: duas aulas completas;
+Valor: 10 pontos;
+
+Melhorando o projeto (Bingador)
+
+1. 
+2. 
+3. 
+4.
+
+Aos interessados, uma solução padronizada será disponibilizada no repositório de acompanhamento da disciplina.
+
+
+

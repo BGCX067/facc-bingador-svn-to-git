@@ -1,0 +1,32 @@
+=Projeto Bingador - Informações Básicas= 
+_VER.: 001_
+
+===APRESENTAÇÃO===
+
+Este projeto esta vinculado as atividades da disciplina Procomp2. Sua evolução se dará tanto por atividades práticas de laboratório quanto por tarefas de EDP. No caso das EDP´s as modificações através desta divulgação serão apenas para alinhamento de versão e definição de padrões com a turma. 
+Mantenha-se atualizado!
+
+
+
+===REPOSITÓRIO DE ATUALIZAÇÃO===
+
+https://code.google.com/p/facc-bingador/
+
+Obsr.: uma versão compactada do projeto também estará disponível através do link:
+https://drive.google.com/folderview?id=0B8-GD1_cOan2cnZjNzRWLWowZjg&usp=sharing
+
+
+
+===INFORMAÇÕES DE DISTRIBUIÇÃO E ATUALIZAÇÕES===
+
+====18-ago-2014: Divulgação inicial====
+
+Divulgação e distribuição inicial do projeto base. Segue src com os pacotes principais (controle, principal, suporte e teste) e identificação do projeto. 
+Nesta versão está incluída também a construção da classe {{{Simulador}}} e o método {{{buildCardGame(size, max):ArrayList}}}
+
+
+====18-ago-2014: Preparação do wikipage====
+
+Montagem e liberação do wikipage para o projeto. 
+https://code.google.com/p/facc-bingador/w/list
+
